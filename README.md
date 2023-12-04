@@ -1,2 +1,2 @@
 # FrontEndWeekly
-mail : fabiorameiarison@gmail.com
+mail : fabioramefiarison@gmail.com
